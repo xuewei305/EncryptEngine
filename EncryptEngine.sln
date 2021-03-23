@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "WordEncrypt.vcproj", "{62AAA1EF-C01C-48A8-B89C-F9F59CB77C23}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "user", "user\user.vcproj", "{99A5CAA2-4596-4074-8CFF-D8E525A106A8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RestoreTool", "RestoreTool\RestoreTool.vcproj", "{831D5F2D-3EB3-4D55-819C-84E26AE2C401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62AAA1EF-C01C-48A8-B89C-F9F59CB77C23}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62AAA1EF-C01C-48A8-B89C-F9F59CB77C23}.Debug|Win32.Build.0 = Debug|Win32
+		{62AAA1EF-C01C-48A8-B89C-F9F59CB77C23}.Release|Win32.ActiveCfg = Release|Win32
+		{62AAA1EF-C01C-48A8-B89C-F9F59CB77C23}.Release|Win32.Build.0 = Release|Win32
+		{99A5CAA2-4596-4074-8CFF-D8E525A106A8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{99A5CAA2-4596-4074-8CFF-D8E525A106A8}.Debug|Win32.Build.0 = Debug|Win32
+		{99A5CAA2-4596-4074-8CFF-D8E525A106A8}.Release|Win32.ActiveCfg = Release|Win32
+		{99A5CAA2-4596-4074-8CFF-D8E525A106A8}.Release|Win32.Build.0 = Release|Win32
+		{831D5F2D-3EB3-4D55-819C-84E26AE2C401}.Debug|Win32.ActiveCfg = Debug|Win32
+		{831D5F2D-3EB3-4D55-819C-84E26AE2C401}.Debug|Win32.Build.0 = Debug|Win32
+		{831D5F2D-3EB3-4D55-819C-84E26AE2C401}.Release|Win32.ActiveCfg = Release|Win32
+		{831D5F2D-3EB3-4D55-819C-84E26AE2C401}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
