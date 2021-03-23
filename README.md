@@ -44,4 +44,6 @@ RestoreTool:	Usage to Decrypt Document Files encrypted by engine.sys
 
 3.Recommendation ConductingEvery Testing in VMware Workstation.
 
+	The one more thihg is to lose efficacy if you save document to C Disk.
+	
 Finally I Hope you can enjoy this , but don't to try using it to commercial circumstance ......
